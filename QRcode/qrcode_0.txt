@@ -1,0 +1,12 @@
+QR 코드를 생성하기 위해서는 qrcode 라이브러리 필요
+
+qrcode라이브러리는 이미지 처리에 사용되는 pillow 라이브러리에 의존하기 때문에 함께 설치
+
+[code]
+pip install qrcode
+pip install pillow
+
+[code2] - python3 사용시
+단, 터미널에 다운해야 되므로 사용할 터미널이 맞는지 반드시 확인
+pip3 install qrcode
+pip3 install pillow
